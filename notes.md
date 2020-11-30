@@ -31,3 +31,5 @@ https://leetcode.com/problems/remove-nth-node-from-end-of-list/  -- done
 https://leetcode.com/problems/partition-list/
 https://leetcode.com/problems/insert-into-a-sorted-circular-linked-list/
 https://leetcode.com/problems/linked-list-in-binary-tree/
+
+https://leetcode.com/problems/happy-number/
